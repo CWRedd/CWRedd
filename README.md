@@ -5,7 +5,7 @@
 <h1 align="center">Hi there, I'm Connor Reddington 👋</h1>
 
 <p align="center">
-  <b>Student & Head of Software — FIRST Tech Challenge Team 1002 (<a href="https://github.com/CircuitRunners">CircuitRunners</a>)</b><br>
+  <b>Student - Wheeler Magnet <br> Head of Software — FIRST Tech Challenge Team 1002 (<a href="https://github.com/CircuitRunners">CircuitRunners</a>)</b><br>
   <i>"If it works, don't question it."</i>
 </p>
 
