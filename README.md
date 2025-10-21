@@ -1,16 +1,25 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://avatars.githubusercontent.com/u/99690237?v=4" width="120" height="120" style="border-radius: 50%;" alt="CWRedd's Avatar"/>
+</p>
 
-<!--
-**CWRedd/CWRedd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi there, I'm Connor Reddington 👋</h1>
 
-Here are some ideas to get you started:
+<p align="center">
+  <b>Student & Head of Software — FIRST Tech Challenge Team 1002 (<a href="https://github.com/CircuitRunners">CircuitRunners</a>)</b><br>
+  <i>"If it works, don't question it."</i>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 About Me
+
+- 👨‍💻 Head of software for **FTC Team 1002**
+- 🛠️ Currently building: <b><a href="https://github.com/CircuitRunners/1002DecodeV1">@CircuitRunners/1002DecodeV1</a></b> for this year's game
+- 💡 Fluent in <b>Python</b>, <b>Java</b>, and <b>HTML</b>
+- 🤖 Passionate about robotics, coding, and solving real-world challenges with technology
+
+---
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,html" alt="Skill Icons" height="32"/> 
+</p>
