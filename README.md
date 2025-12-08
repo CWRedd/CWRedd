@@ -14,7 +14,7 @@
 ### 🚀 About Me
 
 - 👨‍💻 Head of software for **FTC Team 1002**
-- 🛠️ Currently building: <b><a href="https://github.com/CircuitRunners/1002DecodeV1">@CircuitRunners/1002DecodeV1</a></b> for this year's game
+- 🛠️ Currently building: <b><a href="https://github.com/CircuitRunners/1002DecodeV2">@CircuitRunners/1002DecodeV2</a></b> for this year's game
 - 💡 Fluent in <b>Python</b>, <b>Java</b>, and <b>HTML</b>
 - 🤖 Passionate about robotics, coding, and solving real-world challenges with technology
 
